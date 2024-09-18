@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\bin\Debug\net8.0\Lesson3DataEncryptTask.exe
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\bin\Debug\net8.0\Lesson3DataEncryptTask.deps.json
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\bin\Debug\net8.0\Lesson3DataEncryptTask.runtimeconfig.json
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\bin\Debug\net8.0\Lesson3DataEncryptTask.dll
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\bin\Debug\net8.0\Lesson3DataEncryptTask.pdb
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.AssemblyInfo.cs
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.sourcelink.json
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.dll
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\refint\Lesson3DataEncryptTask.dll
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.pdb
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\Lesson3DataEncryptTask.genruntimeconfig.cache
+C:\Users\DELL\Desktop\SystemProgramming\Lesson3DataEncryptTask\obj\Debug\net8.0\ref\Lesson3DataEncryptTask.dll
